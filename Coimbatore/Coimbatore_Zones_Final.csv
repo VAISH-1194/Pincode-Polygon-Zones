@@ -1,0 +1,841 @@
+District,Zone ID,Zone Name,Zone Type,Zone Speed Limit,Latitude,Longitude,Pincode
+Coimbatore,Z100,Kamarajar Road,secondary,40,11.0016412,77.02902705,641015
+Coimbatore,Z101,Coonoor-Mettupalayam Rd,trunk,35,11.34144025,76.8556331,643103
+Coimbatore,Z102,SRI KRISHNA COLLEGE ROAD,residential,30,10.9384403,76.9584885,641105
+Coimbatore,Z103,Nachi Angannan Thevar Street,residential,40,10.99744,76.9931118,641001
+Coimbatore,-,Unnamed Zone,trunk,100,11.09208625,77.1421503,641407
+Coimbatore,Z104,Annur - Karumathampatti Road,primary,60,11.1487481,77.15857095,641659
+Coimbatore,Z105,Kaundampalayam - Vadavalli - Onappalayam Road,secondary,40,11.03928475,76.9260078,641001
+Coimbatore,Z106,Pollachi - Coimbatore Salai,trunk,40,10.70298815,77.0149307,642002
+Coimbatore,Z106,Pollachi - Coimbatore Salai,trunk,80,10.71812735,77.01693155,642120
+Coimbatore,Z107,Coimbatore-Mettupalayam Road,trunk,50,11.03681835,76.9504634,641001
+Coimbatore,Z108,Thudiyalur - Saravanampatty Road,secondary,40,11.07861635,77.00362035,641001
+Coimbatore,Z109,Pollachi Salai,trunk,40,10.9181616,76.98558645,641050
+Coimbatore,Z110,Pollachi - Palakkad Road,primary,60,10.6591465,77.00797375,642001
+Coimbatore,Z111,Palghat road,primary,20,10.97453935,76.9612974,641008
+Coimbatore,Z112,Oppanakara Street,trunk,40,10.9914199,76.96030565,641007
+Coimbatore,Z112,Oppanakara Street,trunk,40,10.9942057,76.95955895,641007
+Coimbatore,Z113,Rangai Gounder Street,residential,40,10.989776,76.95880815,641007
+Coimbatore,Z114,Pollachi-Udumalpet Road,trunk,40,10.65592985,77.0171645,642001
+Coimbatore,-,Unnamed Zone,trunk,20,10.97697665,76.96138265,641008
+Coimbatore,-,Unnamed Zone,trunk,20,10.97457185,76.96187955,641008
+Coimbatore,Z115,Coimbatore Bypass,trunk,70,10.9431841,77.01062595,641050
+Coimbatore,Z116,Pollachi road,trunk,20,10.9749527,76.9618785,641008
+Coimbatore,-,Unnamed Zone,primary_link,20,10.97448695,76.9619314,641008
+Coimbatore,Z109,Pollachi Salai,trunk,40,10.91916045,76.98472295,641050
+Coimbatore,Z117,Bharathi Park Road,secondary,30,11.01936405,76.9385371,641001
+Coimbatore,Z118,Thadagam Road,primary,40,10.99986,76.94991725,641002
+Coimbatore,-,Unnamed Zone,trunk,60,10.6569195,77.01131385,642001
+Coimbatore,Z106,Pollachi - Coimbatore Salai,trunk,40,10.66205805,77.00798875,642001
+Coimbatore,Z119,Avinashi Road,primary,50,11.0552382,77.065484,641001
+Coimbatore,Z106,Pollachi - Coimbatore Salai,trunk,80,10.91745255,76.9866573,641050
+Coimbatore,Z111,Palghat road,primary,60,10.90061515,76.9397731,641105
+Coimbatore,-,Unnamed Zone,trunk,20,10.97561485,76.9618067,641008
+Coimbatore,-,Unnamed Zone,trunk,20,10.9752384,76.96177785,641008
+Coimbatore,Z114,Pollachi-Udumalpet Road,trunk,80,10.638219,77.09219885,642003
+Coimbatore,-,Unnamed Zone,primary_link,20,10.9746622,76.9615954,641008
+Coimbatore,Z111,Palghat road,primary,20,10.9749537,76.9618686,641008
+Coimbatore,-,Unnamed Zone,trunk,20,10.97522695,76.96190305,641008
+Coimbatore,-,Unnamed Zone,trunk_link,30,11.0066787,77.06996885,641103
+Coimbatore,Z119,Avinashi Road,primary,50,11.01678905,76.9900217,641001
+Coimbatore,Z120,Avinashi - Tiruppur - Palladam - Pollachi - Meenkarai - Kochi Road,primary,90,10.6562438,77.00675555,642001
+Coimbatore,Z121,Udhagamandalam - Kotagiri - Mettupalayam - Sathy - Gobi - Erode Road,primary,50,11.32790915,77.0151057,641302
+Coimbatore,Z121,Udhagamandalam - Kotagiri - Mettupalayam - Sathy - Gobi - Erode Road,primary,50,11.31759505,77.0062372,641301
+Coimbatore,Z122,Thudiyalur - Kovilpalayam Road,secondary,45,11.0804411,76.9419124,641001
+Coimbatore,Z123,Makaliamman koil to Kembanur Road,residential,30,11.2363087,76.9090158,641104
+Coimbatore,Z124,Eachanari Railway Flyover,trunk,40,10.939087,76.9799509,641021
+Coimbatore,Z125,Sellapanur to Kendepalayam Road,unclassified,30,11.24238745,76.9034522,641104
+Coimbatore,Z126,Velliankadu Road to Bathirakaliamman Koil,tertiary,50,11.2442084,76.8925108,641113
+Coimbatore,Z126,Velliankadu Road to Bathirakaliamman Koil,tertiary,50,11.2962566,76.8952524,641305
+Coimbatore,Z127,Mettupalayam to Bathirakaliamman Koil,tertiary,50,11.29750755,76.89578935,641305
+Coimbatore,Z128,Bujanganur to Thekkampatti Road,tertiary,40,11.22387195,76.8900892,641113
+Coimbatore,Z129,Peria Subbannan Street,residential,40,11.03004605,76.9474415,641001
+Coimbatore,Z130,sorkkavaasal street,residential,40,11.24275445,76.95879655,641104
+Coimbatore,Z131,north car street,secondary,40,11.24306585,76.95933915,641104
+Coimbatore,Z132,east car street,secondary,40,11.24352875,76.96059735,641104
+Coimbatore,Z133,Odhimalai Road,tertiary,40,11.3054088,77.10284765,641653
+Coimbatore,-,Unnamed Zone,residential,35,11.07588715,76.95544485,641001
+Coimbatore,-,Unnamed Zone,residential,35,11.074785,76.95737975,641001
+Coimbatore,-,Unnamed Zone,trunk,50,10.9876107,76.96137325,641008
+Coimbatore,Z134,Annur - Thennampalayam Road,secondary,60,11.2331163,77.10438975,641653
+Coimbatore,Z135,Devanapuram to ITC road,tertiary,10,11.24074025,76.8737675,641113
+Coimbatore,Z135,Devanapuram to ITC road,tertiary,40,11.2389558,76.8819963,641113
+Coimbatore,Z136,Vellienkadu to Karamadai Road,secondary,50,11.21380665,76.7547601,641111
+Coimbatore,Z136,Vellienkadu to Karamadai Road,secondary,50,11.213278,76.7552071,641111
+Coimbatore,-,Unnamed Zone,residential,35,11.0794292,76.9388412,641001
+Coimbatore,-,Unnamed Zone,residential,35,11.0795188,76.94830745,641001
+Coimbatore,Z137,Railway Station Road,residential,35,11.0811411,76.9442774,641001
+Coimbatore,-,Unnamed Zone,residential,35,11.0805361,76.9454957,641001
+Coimbatore,-,Unnamed Zone,residential,35,11.08191975,76.9457633,641001
+Coimbatore,Z108,Thudiyalur - Saravanampatty Road,secondary,40,11.07715335,76.9504672,641001
+Coimbatore,Z108,Thudiyalur - Saravanampatty Road,secondary,35,11.0773888,76.95029455,641001
+Coimbatore,Z138,Mariamman Kovil Street,residential,20,11.0288171,76.96495135,641001
+Coimbatore,Z139,Jawahar Street,residential,20,11.029337,76.96527445,641001
+Coimbatore,Z140,Kumaraswamy Street,residential,20,11.02942865,76.963635,641001
+Coimbatore,Z141,Church Road,residential,20,10.99120295,76.993602,641001
+Coimbatore,Z142,Rangai Gouder Street,residential,40,10.99786395,76.95745715,641007
+Coimbatore,Z111,Palghat road,primary,60,10.89527005,76.93411615,641105
+Coimbatore,Z143,Ooty-Coonoor Road,trunk,50,11.30373565,76.9367762,641301
+Coimbatore,-,Unnamed Zone,service,10,11.1016873,76.9863577,641035
+Coimbatore,-,Unnamed Zone,service,10,11.10256215,76.98497085,641049
+Coimbatore,-,Unnamed Zone,service,10,11.10396605,76.98509955,641049
+Coimbatore,Z144,Salem - Kochi - Kanyakumari Highway,trunk,70,10.8581365,76.8651509,641112
+Coimbatore,Z144,Salem - Kochi - Kanyakumari Highway,trunk,70,10.8926929,76.92396435,641105
+Coimbatore,Z144,Salem - Kochi - Kanyakumari Highway,trunk,70,10.87319945,76.9027348,641112
+Coimbatore,Z145,Pattanam Road,tertiary,40,11.0016839,77.05852985,641016
+Coimbatore,-,Unnamed Zone,residential,35,11.07980635,76.94308265,641001
+Coimbatore,-,Unnamed Zone,residential,35,11.0801466,76.94299665,641001
+Coimbatore,-,Unnamed Zone,residential,35,11.0789171,76.9422057,641001
+Coimbatore,-,Unnamed Zone,residential,35,11.07764755,76.94445755,641001
+Coimbatore,-,Unnamed Zone,residential,35,11.0788141,76.94520755,641001
+Coimbatore,-,Unnamed Zone,residential,35,11.079463,76.9431453,641001
+Coimbatore,-,Unnamed Zone,residential,35,11.0804089,76.9459489,641001
+Coimbatore,-,Unnamed Zone,residential,35,11.078723,76.947135,641001
+Coimbatore,-,Unnamed Zone,residential,35,11.08048165,76.94319855,641001
+Coimbatore,-,Unnamed Zone,residential,35,11.08073795,76.9444734,641001
+Coimbatore,Z146,Pallivasal Street,residential,30,11.08321835,76.9438682,641001
+Coimbatore,-,Unnamed Zone,residential,35,11.081169,76.94422025,641001
+Coimbatore,-,Unnamed Zone,residential,35,11.0921682,76.94347165,641001
+Coimbatore,-,Unnamed Zone,residential,35,11.08987835,76.9436232,641001
+Coimbatore,-,Unnamed Zone,residential,35,11.0911409,76.9448852,641001
+Coimbatore,-,Unnamed Zone,residential,35,11.08262355,76.94649445,641001
+Coimbatore,-,Unnamed Zone,residential,35,11.09303385,76.9415346,641001
+Coimbatore,-,Unnamed Zone,residential,35,11.0838049,76.94641455,641001
+Coimbatore,-,Unnamed Zone,residential,35,11.09507755,76.9424591,641001
+Coimbatore,-,Unnamed Zone,residential,35,11.0880295,76.9447308,641001
+Coimbatore,-,Unnamed Zone,residential,35,11.0953464,76.9444731,641001
+Coimbatore,-,Unnamed Zone,residential,35,11.09417895,76.94154245,641001
+Coimbatore,-,Unnamed Zone,residential,35,11.09238055,76.94207505,641001
+Coimbatore,-,Unnamed Zone,residential,35,11.08704835,76.94503275,641001
+Coimbatore,-,Unnamed Zone,residential,35,11.0874228,76.94500725,641001
+Coimbatore,-,Unnamed Zone,residential,35,11.08657585,76.945485,641001
+Coimbatore,-,Unnamed Zone,residential,35,11.08289375,76.9447765,641001
+Coimbatore,-,Unnamed Zone,residential,35,11.0866829,76.9435581,641001
+Coimbatore,-,Unnamed Zone,residential,35,11.0887288,76.94454215,641001
+Coimbatore,-,Unnamed Zone,residential,35,11.0893813,76.9424438,641001
+Coimbatore,-,Unnamed Zone,residential,35,11.09193495,76.9452234,641001
+Coimbatore,-,Unnamed Zone,residential,35,11.0872225,76.9440762,641001
+Coimbatore,-,Unnamed Zone,residential,35,11.08460415,76.94535215,641001
+Coimbatore,-,Unnamed Zone,residential,35,11.09583685,76.94365225,641001
+Coimbatore,-,Unnamed Zone,residential,35,11.0918611,76.9418703,641001
+Coimbatore,-,Unnamed Zone,residential,35,11.0856876,76.94495035,641001
+Coimbatore,-,Unnamed Zone,residential,35,11.0966982,76.94907955,641001
+Coimbatore,-,Unnamed Zone,residential,35,11.0983473,76.94169965,641001
+Coimbatore,-,Unnamed Zone,tertiary,40,11.10538925,76.94324975,641020
+Coimbatore,-,Unnamed Zone,residential,35,11.0936394,76.94173305,641001
+Coimbatore,-,Unnamed Zone,residential,35,11.10723405,76.94162225,641020
+Coimbatore,-,Unnamed Zone,residential,35,11.09741575,76.94851375,641001
+Coimbatore,-,Unnamed Zone,residential,35,11.09120925,76.9462953,641001
+Coimbatore,-,Unnamed Zone,residential,35,11.0969836,76.94853885,641001
+Coimbatore,-,Unnamed Zone,residential,35,11.0992341,76.9433057,641017
+Coimbatore,-,Unnamed Zone,residential,35,11.1068402,76.9417702,641020
+Coimbatore,-,Unnamed Zone,residential,35,11.10045175,76.9411976,641017
+Coimbatore,-,Unnamed Zone,residential,35,11.10197735,76.93993365,641017
+Coimbatore,-,Unnamed Zone,residential,35,11.09895,76.94182625,641017
+Coimbatore,-,Unnamed Zone,residential,35,11.09368445,76.9421302,641001
+Coimbatore,-,Unnamed Zone,residential,35,11.1003977,76.9407949,641017
+Coimbatore,-,Unnamed Zone,residential,35,11.0994915,76.94369445,641017
+Coimbatore,-,Unnamed Zone,residential,35,11.10037745,76.9397674,641017
+Coimbatore,-,Unnamed Zone,residential,35,11.10311195,76.9411987,641017
+Coimbatore,-,Unnamed Zone,residential,35,11.09676605,76.9413753,641001
+Coimbatore,-,Unnamed Zone,residential,35,11.0959082,76.94510155,641001
+Coimbatore,-,Unnamed Zone,residential,35,11.09717905,76.9418558,641001
+Coimbatore,-,Unnamed Zone,residential,35,11.07796085,76.9478826,641001
+Coimbatore,-,Unnamed Zone,residential,35,11.0958948,76.9491712,641001
+Coimbatore,-,Unnamed Zone,residential,35,11.0991889,76.94261265,641017
+Coimbatore,-,Unnamed Zone,residential,35,11.1070774,76.9423203,641020
+Coimbatore,-,Unnamed Zone,residential,35,11.1005969,76.94269065,641017
+Coimbatore,-,Unnamed Zone,residential,35,11.0920381,76.94659535,641001
+Coimbatore,-,Unnamed Zone,residential,35,11.0988853,76.94296345,641017
+Coimbatore,-,Unnamed Zone,residential,35,11.08167835,76.9465777,641001
+Coimbatore,-,Unnamed Zone,residential,35,11.10003555,76.94038655,641017
+Coimbatore,-,Unnamed Zone,residential,35,11.0937688,76.9514033,641001
+Coimbatore,-,Unnamed Zone,residential,35,11.07886055,76.94770245,641001
+Coimbatore,-,Unnamed Zone,residential,35,11.10008395,76.94172965,641017
+Coimbatore,-,Unnamed Zone,residential,35,11.1002177,76.94322015,641017
+Coimbatore,-,Unnamed Zone,residential,35,11.07919645,76.94821935,641001
+Coimbatore,-,Unnamed Zone,residential,35,11.0955828,76.95025095,641001
+Coimbatore,-,Unnamed Zone,residential,35,11.0782361,76.94734605,641001
+Coimbatore,-,Unnamed Zone,residential,35,11.09884685,76.94217035,641017
+Coimbatore,-,Unnamed Zone,residential,35,11.0935176,76.9465291,641001
+Coimbatore,-,Unnamed Zone,residential,35,11.09648795,76.9507403,641001
+Coimbatore,-,Unnamed Zone,residential,35,11.10454755,76.9409511,641017
+Coimbatore,-,Unnamed Zone,residential,35,11.10643395,76.9425919,641020
+Coimbatore,-,Unnamed Zone,residential,35,11.1073116,76.94240505,641020
+Coimbatore,-,Unnamed Zone,residential,35,11.1032142,76.94316285,641017
+Coimbatore,-,Unnamed Zone,residential,35,11.10422625,76.9411886,641020
+Coimbatore,-,Unnamed Zone,residential,35,11.0952504,76.9449628,641001
+Coimbatore,-,Unnamed Zone,residential,35,11.09292235,76.95026085,641001
+Coimbatore,-,Unnamed Zone,residential,35,11.1116366,76.9383962,641020
+Coimbatore,-,Unnamed Zone,residential,35,11.1105916,76.9414165,641020
+Coimbatore,-,Unnamed Zone,residential,35,11.0802357,76.9563303,641001
+Coimbatore,-,Unnamed Zone,residential,35,11.0805362,76.9555088,641001
+Coimbatore,-,Unnamed Zone,residential,35,11.0788037,76.9572125,641001
+Coimbatore,-,Unnamed Zone,residential,35,11.0790585,76.9561558,641001
+Coimbatore,-,Unnamed Zone,residential,35,11.0806961,76.9553261,641001
+Coimbatore,-,Unnamed Zone,residential,35,11.0795894,76.95642015,641001
+Coimbatore,-,Unnamed Zone,residential,35,11.07974705,76.9565565,641001
+Coimbatore,-,Unnamed Zone,residential,35,11.07861805,76.95687795,641001
+Coimbatore,-,Unnamed Zone,residential,35,11.0786041,76.955388,641001
+Coimbatore,-,Unnamed Zone,tertiary,30,11.16305915,76.9407847,641047
+Coimbatore,-,Unnamed Zone,tertiary,30,11.1643869,76.9466602,641047
+Coimbatore,Z145,Pattanam Road,unclassified,40,10.9906561,77.05904545,641016
+Coimbatore,Z115,Coimbatore Bypass,trunk,70,10.91950925,76.98767315,641050
+Coimbatore,Z147,Coimbatore - Kovai Road,trunk,70,11.00770185,77.07135015,641103
+Coimbatore,Z148,Coimbatore - Tiruchirapalli Nedunchalai,trunk,70,11.02333675,77.1748087,641401
+Coimbatore,Z115,Coimbatore Bypass,trunk,70,11.00364035,77.0684132,641103
+Coimbatore,Z115,Coimbatore Bypass,trunk,70,11.0640879,77.0930694,641062
+Coimbatore,Z119,Avinashi Road,primary,50,11.0211556,76.9940531,641018
+Coimbatore,Z119,Avinashi Road,primary,50,11.02327955,77.0016399,641004
+Coimbatore,Z119,Avinashi Road,primary,50,11.0415004,77.04214985,641001
+Coimbatore,Z115,Coimbatore Bypass,trunk,70,10.8955392,76.94522215,641105
+Coimbatore,Z115,Coimbatore Bypass,trunk,70,10.89559695,76.9470527,641105
+Coimbatore,Z149,Vellalur Road,residential,40,10.9821482,77.0483931,641016
+Coimbatore,Z115,Coimbatore Bypass,trunk,70,11.00870195,77.07109905,641103
+Coimbatore,Z115,Coimbatore Bypass,trunk,70,11.00332065,77.0682357,641016
+Coimbatore,Z115,Coimbatore Bypass,trunk,70,11.008963,77.07121575,641103
+Coimbatore,Z115,Coimbatore Bypass,trunk,70,10.9184339,76.9866992,641050
+Coimbatore,-,Unnamed Zone,trunk,20,10.9749657,76.96174185,641008
+Coimbatore,Z150,Kerala-Tamil Nadu Border Bridge,trunk,70,10.85260555,76.84280555,678624
+Coimbatore,Z115,Coimbatore Bypass,trunk,70,10.89511275,76.93937055,641105
+Coimbatore,Z144,Salem - Kochi - Kanyakumari Highway,trunk,40,10.8949043,76.9328521,641105
+Coimbatore,Z115,Coimbatore Bypass,trunk,70,10.90842975,76.97698265,641050
+Coimbatore,Z115,Coimbatore Bypass,trunk,70,10.90803005,76.97659325,641105
+Coimbatore,Z115,Coimbatore Bypass,trunk,70,10.91726785,76.98550435,641050
+Coimbatore,Z115,Coimbatore Bypass,trunk,70,10.89635535,76.9614041,641105
+Coimbatore,Z115,Coimbatore Bypass,trunk,70,10.8963156,76.9606266,641105
+Coimbatore,Z115,Coimbatore Bypass,trunk,70,10.9032408,76.97191035,641105
+Coimbatore,Z115,Coimbatore Bypass,trunk,70,10.90583635,76.9744414,641105
+Coimbatore,Z115,Coimbatore Bypass,trunk,70,10.91415085,76.9824994,641050
+Coimbatore,Z115,Coimbatore Bypass,trunk,70,10.91468935,76.98302465,641050
+Coimbatore,Z115,Coimbatore Bypass,trunk,70,10.8955556,76.94628145,641105
+Coimbatore,Z115,Coimbatore Bypass,trunk,70,10.9023268,76.97101445,641105
+Coimbatore,Z115,Coimbatore Bypass,trunk,70,10.9136139,76.98187725,641050
+Coimbatore,Z115,Coimbatore Bypass,trunk,70,10.906351,76.9749484,641105
+Coimbatore,Z151,Coimbatore Bypass Flyover,trunk,70,10.9440242,77.0114546,641038
+Coimbatore,Z115,Coimbatore Bypass,trunk,70,10.93207405,76.99984085,641050
+Coimbatore,Z115,Coimbatore Bypass,trunk,70,10.9223827,76.99046555,641050
+Coimbatore,Z115,Coimbatore Bypass,trunk,70,10.93147835,76.99926305,641050
+Coimbatore,Z151,Coimbatore Bypass Flyover,trunk,70,10.94364765,77.011083,641038
+Coimbatore,Z151,Coimbatore Bypass Flyover,trunk,70,10.94436235,77.0117789,641038
+Coimbatore,Z115,Coimbatore Bypass,trunk,70,10.9202181,76.98831545,641050
+Coimbatore,Z115,Coimbatore Bypass,trunk,70,10.9638334,77.0307058,641111
+Coimbatore,Z115,Coimbatore Bypass,trunk,70,10.96330935,77.0302102,641111
+Coimbatore,Z115,Coimbatore Bypass,trunk,70,10.9852485,77.0511576,641111
+Coimbatore,Z115,Coimbatore Bypass,trunk,70,10.98568085,77.0515751,641016
+Coimbatore,-,Unnamed Zone,trunk_link,30,11.00766485,77.0710606,641103
+Coimbatore,Z115,Coimbatore Bypass,trunk,80,11.01438865,77.0740116,641103
+Coimbatore,Z115,Coimbatore Bypass,trunk,70,11.01177305,77.07263495,641103
+Coimbatore,Z115,Coimbatore Bypass,trunk,70,11.01754255,77.0746373,641103
+Coimbatore,Z115,Coimbatore Bypass,trunk,70,11.0233007,77.0753011,641103
+Coimbatore,Z115,Coimbatore Bypass,trunk,70,11.01972345,77.07488675,641103
+Coimbatore,Z115,Coimbatore Bypass,trunk,70,11.0243788,77.07542985,641103
+Coimbatore,Z115,Coimbatore Bypass,trunk,70,11.0281701,77.07589015,641103
+Coimbatore,Z115,Coimbatore Bypass,trunk,70,11.01463735,77.07411855,641103
+Coimbatore,Z115,Coimbatore Bypass,trunk,70,11.01798995,77.0746926,641103
+Coimbatore,Z115,Coimbatore Bypass,trunk,70,11.03427155,77.0766311,641103
+Coimbatore,Z115,Coimbatore Bypass,trunk,70,11.0352332,77.07676185,641062
+Coimbatore,-,Unnamed Zone,service,30,11.04090365,77.0751193,641103
+Coimbatore,-,Unnamed Zone,service,30,11.0409428,77.0772119,641062
+Coimbatore,-,Unnamed Zone,service,30,11.0409598,77.07512595,641103
+Coimbatore,-,Unnamed Zone,service,30,11.04075005,77.07399805,641103
+Coimbatore,-,Unnamed Zone,service,30,11.04112825,77.0736539,641103
+Coimbatore,-,Unnamed Zone,service,30,11.04141935,77.07618765,641062
+Coimbatore,-,Unnamed Zone,service,30,11.0410259,77.0762424,641062
+Coimbatore,Z115,Coimbatore Bypass,trunk,70,11.05562025,77.08301665,641062
+Coimbatore,Z115,Coimbatore Bypass,trunk,70,11.05441405,77.0816695,641062
+Coimbatore,Z115,Coimbatore Bypass,trunk,70,11.0583659,77.08615295,641062
+Coimbatore,Z115,Coimbatore Bypass,trunk,70,11.0588586,77.086733,641062
+Coimbatore,-,Unnamed Zone,trunk_link,30,10.91791395,76.9862541,641050
+Coimbatore,-,Unnamed Zone,tertiary,50,10.9001296,76.9777347,641105
+Coimbatore,-,Unnamed Zone,trunk_link,30,10.91769955,76.98616925,641050
+Coimbatore,-,Unnamed Zone,trunk_link,30,10.9177555,76.985913,641050
+Coimbatore,-,Unnamed Zone,trunk_link,30,10.9180047,76.9859999,641050
+Coimbatore,-,Unnamed Zone,tertiary,40,10.90957975,76.97791245,641050
+Coimbatore,-,Unnamed Zone,service,30,11.0779475,77.1091399,641407
+Coimbatore,-,Unnamed Zone,service,30,11.07744285,77.1080991,641407
+Coimbatore,-,Unnamed Zone,unclassified,40,11.0770589,77.10996775,641407
+Coimbatore,-,Unnamed Zone,service,30,11.1316152,77.19926195,641659
+Coimbatore,-,Unnamed Zone,residential,40,11.0316923,77.0083703,641001
+Coimbatore,-,Unnamed Zone,residential,20,11.03569985,76.9160993,641041
+Coimbatore,Z115,Coimbatore Bypass,trunk,70,11.0602706,77.08822035,641062
+Coimbatore,Z136,Vellienkadu to Karamadai Road,secondary,50,11.21492185,76.73290725,641111
+Coimbatore,Z136,Vellienkadu to Karamadai Road,secondary,50,11.21523315,76.7327222,641102
+Coimbatore,Z114,Pollachi-Udumalpet Road,trunk,80,10.6201101,77.15067275,642117
+Coimbatore,-,Unnamed Zone,trunk,100,11.10684445,77.1760327,641668
+Coimbatore,-,Unnamed Zone,trunk,100,11.10247005,77.1678186,641668
+Coimbatore,-,Unnamed Zone,trunk,100,11.1057732,77.17450425,641668
+Coimbatore,-,Unnamed Zone,trunk,100,11.09066955,77.13741935,641407
+Coimbatore,Z128,Bujanganur to Thekkampatti Road,tertiary,40,11.24110465,76.8861775,641113
+Coimbatore,Z128,Bujanganur to Thekkampatti Road,tertiary,40,11.24026155,76.88669435,641113
+Coimbatore,Z152,Mettupalayam Road,trunk,50,11.2143537,76.96541145,641019
+Coimbatore,Z153,Mettupalayam-Coimbatore Road,trunk,50,11.21915665,76.96313715,641019
+Coimbatore,Z153,Mettupalayam-Coimbatore Road,trunk,50,11.1743939,76.95381665,641047
+Coimbatore,Z123,Makaliamman koil to Kembanur Road,residential,30,11.2371071,76.90897495,641104
+Coimbatore,Z123,Makaliamman koil to Kembanur Road,residential,30,11.2373444,76.9089607,641104
+Coimbatore,Z154,Gopalasamy Koil Street,secondary,45,11.0362179,76.97706055,641001
+Coimbatore,Z119,Avinashi Road,primary,50,11.0212696,76.9943725,641028
+Coimbatore,Z155,Avanishi Road,primary,50,11.02641545,77.02107285,641001
+Coimbatore,Z153,Mettupalayam-Coimbatore Road,trunk,40,11.23908525,76.9606413,641104
+Coimbatore,Z153,Mettupalayam-Coimbatore Road,trunk,50,11.2488891,76.9562942,641104
+Coimbatore,Z120,Avinashi - Tiruppur - Palladam - Pollachi - Meenkarai - Kochi Road,primary,60,10.62309645,76.84697075,678533
+Coimbatore,Z120,Avinashi - Tiruppur - Palladam - Pollachi - Meenkarai - Kochi Road,primary,60,10.63004735,76.87568235,678533
+Coimbatore,Z120,Avinashi - Tiruppur - Palladam - Pollachi - Meenkarai - Kochi Road,primary,60,10.62301575,76.8467529,678533
+Coimbatore,-,Unnamed Zone,residential,35,11.08167935,76.9411048,641001
+Coimbatore,Z156,Palakkad - Pollachi Road,primary,80,10.69332185,76.87044965,678554
+Coimbatore,Z120,Avinashi - Tiruppur - Palladam - Pollachi - Meenkarai - Kochi Road,primary,60,10.6374255,76.9470131,642103
+Coimbatore,Z120,Avinashi - Tiruppur - Palladam - Pollachi - Meenkarai - Kochi Road,primary,60,10.63753885,76.94622005,642103
+Coimbatore,Z108,Thudiyalur - Saravanampatty Road,secondary,35,11.08109775,76.94415335,641001
+Coimbatore,-,Unnamed Zone,residential,35,11.082549,76.94728015,641001
+Coimbatore,Z108,Thudiyalur - Saravanampatty Road,secondary,45,11.08030285,76.9415258,641001
+Coimbatore,Z108,Thudiyalur - Saravanampatty Road,secondary,45,11.08023615,76.9417519,641001
+Coimbatore,Z157,thudiyalur road,secondary,45,11.08077475,76.9431749,641001
+Coimbatore,-,Unnamed Zone,secondary,45,11.08053255,76.94258615,641001
+Coimbatore,-,Unnamed Zone,residential,35,11.08280415,76.94295205,641001
+Coimbatore,-,Unnamed Zone,residential,35,11.08246165,76.9429456,641001
+Coimbatore,-,Unnamed Zone,residential,35,11.08210585,76.9433024,641001
+Coimbatore,-,Unnamed Zone,residential,35,11.0828288,76.94390285,641001
+Coimbatore,Z158,Thennamanallur Pirivu Road,tertiary,40,10.96564795,76.82214645,641109
+Coimbatore,Z158,Thennamanallur Pirivu Road,tertiary,40,10.9696069,76.8211775,641109
+Coimbatore,Z159,Karuppusamy Street,residential,50,11.0266649,76.94391935,641001
+Coimbatore,-,Unnamed Zone,residential,35,11.07883015,76.9474236,641001
+Coimbatore,Z143,Ooty-Coonoor Road,trunk,50,11.31014045,76.93166285,641301
+Coimbatore,Z120,Avinashi - Tiruppur - Palladam - Pollachi - Meenkarai - Kochi Road,primary,60,10.6530187,76.99507645,642001
+Coimbatore,Z120,Avinashi - Tiruppur - Palladam - Pollachi - Meenkarai - Kochi Road,primary,60,10.65370965,76.99711755,642001
+Coimbatore,Z106,Pollachi - Coimbatore Salai,trunk,80,10.8508008,77.0141458,641032
+Coimbatore,Z106,Pollachi - Coimbatore Salai,trunk,80,10.75837735,77.0195127,642109
+Coimbatore,Z120,Avinashi - Tiruppur - Palladam - Pollachi - Meenkarai - Kochi Road,primary,60,10.6541101,76.998128,642001
+Coimbatore,Z136,Vellienkadu to Karamadai Road,secondary,50,11.2434679,76.70334365,641111
+Coimbatore,Z160,Karanampettai - Karumathampatti Road,primary,60,11.0880751,77.18623275,641668
+Coimbatore,Z160,Karanampettai - Karumathampatti Road,primary,60,11.08545805,77.18781295,641668
+Coimbatore,Z160,Karanampettai - Karumathampatti Road,primary,60,11.07875015,77.1910672,641668
+Coimbatore,Z115,Coimbatore Bypass,trunk,70,11.0269317,77.0757382,641103
+Coimbatore,Z115,Coimbatore Bypass,trunk,70,11.01772955,77.0746594,641103
+Coimbatore,-,Unnamed Zone,trunk,100,11.1005976,77.16372355,641668
+Coimbatore,-,Unnamed Zone,trunk,100,11.0932822,77.14590365,641407
+Coimbatore,-,Unnamed Zone,trunk,100,11.09404355,77.14875265,641407
+Coimbatore,Z115,Coimbatore Bypass,trunk,70,11.0104386,77.07198075,641103
+Coimbatore,Z115,Coimbatore Bypass,trunk,70,11.0110496,77.072299,641103
+Coimbatore,Z148,Coimbatore - Tiruchirapalli Nedunchalai,trunk,70,11.01240255,77.08505805,641402
+Coimbatore,-,Unnamed Zone,trunk,100,11.0727757,77.1073826,641407
+Coimbatore,-,Unnamed Zone,trunk,100,11.0729016,77.1073027,641407
+Coimbatore,-,Unnamed Zone,trunk,100,11.07444225,77.10999125,641407
+Coimbatore,-,Unnamed Zone,trunk,100,11.0741117,77.1094762,641407
+Coimbatore,-,Unnamed Zone,trunk,100,11.07455505,77.1099061,641407
+Coimbatore,-,Unnamed Zone,trunk,100,11.07424015,77.109403,641407
+Coimbatore,-,Unnamed Zone,trunk,100,11.07104245,77.10467225,641062
+Coimbatore,-,Unnamed Zone,trunk,100,11.06722195,77.0982902,641062
+Coimbatore,Z119,Avinashi Road,primary,50,11.0171732,76.9902754,641018
+Coimbatore,Z161,Kariyakaali Amman Kovil Road,unclassified,40,10.96810295,76.80365965,641109
+Coimbatore,Z162,Shanthi Nagar Road,residential,20,11.05368575,77.016056,641001
+Coimbatore,Z163,"Street 1, Shanthi Nagar",residential,20,11.0534971,77.01516425,641001
+Coimbatore,Z164,"Street 2, Shanthi Nagar",residential,20,11.05350855,77.01551375,641001
+Coimbatore,Z165,"Street 3, Shanthi Nagar",residential,20,11.05354525,77.0158314,641001
+Coimbatore,Z120,Avinashi - Tiruppur - Palladam - Pollachi - Meenkarai - Kochi Road,primary,60,10.65419415,76.9984553,642001
+Coimbatore,Z120,Avinashi - Tiruppur - Palladam - Pollachi - Meenkarai - Kochi Road,primary,60,10.65417205,76.99848135,642001
+Coimbatore,Z120,Avinashi - Tiruppur - Palladam - Pollachi - Meenkarai - Kochi Road,primary,60,10.6538501,76.99763845,642001
+Coimbatore,Z120,Avinashi - Tiruppur - Palladam - Pollachi - Meenkarai - Kochi Road,primary,60,10.65406425,76.9981702,642001
+Coimbatore,Z120,Avinashi - Tiruppur - Palladam - Pollachi - Meenkarai - Kochi Road,primary,60,10.65364645,76.99717975,642001
+Coimbatore,Z120,Avinashi - Tiruppur - Palladam - Pollachi - Meenkarai - Kochi Road,primary,60,10.65356705,76.99698595,642001
+Coimbatore,Z120,Avinashi - Tiruppur - Palladam - Pollachi - Meenkarai - Kochi Road,primary,60,10.6533349,76.9960178,642001
+Coimbatore,Z120,Avinashi - Tiruppur - Palladam - Pollachi - Meenkarai - Kochi Road,primary,60,10.65390125,76.99759005,642001
+Coimbatore,Z120,Avinashi - Tiruppur - Palladam - Pollachi - Meenkarai - Kochi Road,primary,60,10.65528505,77.00306475,642001
+Coimbatore,Z106,Pollachi - Coimbatore Salai,trunk,80,10.7449736,77.0196172,642110
+Coimbatore,Z106,Pollachi - Coimbatore Salai,trunk,80,10.7339273,77.01881445,642110
+Coimbatore,Z166,Connect road,service,20,11.02356305,76.95440985,641001
+Coimbatore,Z136,Vellienkadu to Karamadai Road,secondary,50,11.21323775,76.84762205,641113
+Coimbatore,Z136,Vellienkadu to Karamadai Road,secondary,50,11.20814465,76.7878297,641111
+Coimbatore,Z144,Salem - Kochi - Kanyakumari Highway,trunk,70,10.87197175,76.88976995,641112
+Coimbatore,-,Unnamed Zone,trunk,40,10.89497015,76.9341252,641105
+Coimbatore,Z144,Salem - Kochi - Kanyakumari Highway,trunk,40,10.89478675,76.93351545,641105
+Coimbatore,-,Unnamed Zone,trunk,40,10.89501985,76.93765455,641105
+Coimbatore,-,Unnamed Zone,trunk,40,10.89500925,76.9348626,641105
+Coimbatore,Z150,Kerala-Tamil Nadu Border Bridge,trunk,40,10.8525298,76.8429029,678624
+Coimbatore,Z144,Salem - Kochi - Kanyakumari Highway,trunk,40,10.85405585,76.85347345,678624
+Coimbatore,Z144,Salem - Kochi - Kanyakumari Highway,trunk,40,10.8717571,76.88954905,641112
+Coimbatore,Z144,Salem - Kochi - Kanyakumari Highway,trunk,40,10.8728689,76.9023913,641112
+Coimbatore,Z144,Salem - Kochi - Kanyakumari Highway,trunk,40,10.8856107,76.9133185,641112
+Coimbatore,Z144,Salem - Kochi - Kanyakumari Highway,trunk,40,10.89454725,76.9314149,641105
+Coimbatore,Z111,Palghat road,primary,60,10.89991595,76.9392613,641105
+Coimbatore,Z111,Palghat road,primary,60,10.92986005,76.9495693,641105
+Coimbatore,Z111,Palghat road,primary,60,10.92946125,76.949574,641105
+Coimbatore,Z111,Palghat road,primary,60,10.9534433,76.9535619,641008
+Coimbatore,Z111,Palghat road,primary,40,10.96113985,76.95466715,641008
+Coimbatore,-,Unnamed Zone,trunk,20,10.97172,76.96591095,641008
+Coimbatore,Z116,Pollachi road,trunk,20,10.97273325,76.96520435,641008
+Coimbatore,Z167,Sathi Road,trunk,40,11.02051215,76.97091735,641001
+Coimbatore,Z168,Sathy Road,trunk,40,11.01727685,76.9686838,641001
+Coimbatore,-,Unnamed Zone,trunk,40,10.99697645,77.00272565,641001
+Coimbatore,Z169,Sitra - Kurumbapalayam Road,primary,50,11.03846655,77.03742795,641001
+Coimbatore,Z169,Sitra - Kurumbapalayam Road,primary,70,11.09375485,77.03191075,641048
+Coimbatore,-,Unnamed Zone,residential,35,11.07886805,76.9419296,641001
+Coimbatore,-,Unnamed Zone,residential,35,11.08358955,76.940099,641001
+Coimbatore,-,Unnamed Zone,unclassified,35,11.09132015,76.9392518,641001
+Coimbatore,-,Unnamed Zone,residential,35,11.09662835,76.9387964,641001
+Coimbatore,-,Unnamed Zone,residential,35,11.09933125,76.93873065,641017
+Coimbatore,-,Unnamed Zone,residential,35,11.10139885,76.9388496,641017
+Coimbatore,-,Unnamed Zone,tertiary,40,11.10434855,76.938454,641017
+Coimbatore,-,Unnamed Zone,residential,35,11.1114389,76.9365649,641020
+Coimbatore,Z153,Mettupalayam-Coimbatore Road,trunk,50,11.12935565,76.9359531,641020
+Coimbatore,Z170,Cowley Brown Rd,primary,40,11.0137052,76.94241085,641002
+Coimbatore,Z171,Coimbatore - Anaikatti Road,primary,40,11.06399335,76.90913925,641108
+Coimbatore,Z105,Kaundampalayam - Vadavalli - Onappalayam Road,secondary,40,11.0282009,76.90615415,641041
+Coimbatore,Z109,Pollachi Salai,trunk,40,10.935367,76.9805293,641021
+Coimbatore,Z109,Pollachi Salai,trunk,40,10.9218665,76.9829228,641050
+Coimbatore,Z109,Pollachi Salai,trunk,40,10.9280519,76.98132685,641021
+Coimbatore,-,Unnamed Zone,service,10,11.1022693,76.98638475,641035
+Coimbatore,Z109,Pollachi Salai,trunk,40,10.9216035,76.9830222,641050
+Coimbatore,Z109,Pollachi Salai,trunk,40,10.9196744,76.98422295,641050
+Coimbatore,Z109,Pollachi Salai,trunk,40,10.92253925,76.98275635,641021
+Coimbatore,Z114,Pollachi-Udumalpet Road,trunk,80,10.62407785,77.12775575,642117
+Coimbatore,Z114,Pollachi-Udumalpet Road,trunk,80,10.62399915,77.1280107,642117
+Coimbatore,Z114,Pollachi-Udumalpet Road,trunk,40,10.64479745,77.0817696,642003
+Coimbatore,Z114,Pollachi-Udumalpet Road,trunk,40,10.6596921,77.0513135,642001
+Coimbatore,Z120,Avinashi - Tiruppur - Palladam - Pollachi - Meenkarai - Kochi Road,primary,60,10.65063335,76.9860123,642004
+Coimbatore,Z120,Avinashi - Tiruppur - Palladam - Pollachi - Meenkarai - Kochi Road,primary,60,10.64970545,76.9825366,642004
+Coimbatore,Z153,Mettupalayam-Coimbatore Road,trunk,50,11.1825574,76.9591625,641047
+Coimbatore,Z153,Mettupalayam-Coimbatore Road,trunk,50,11.18229215,76.95904575,641047
+Coimbatore,Z152,Mettupalayam Road,trunk,50,11.1736797,76.95343,641047
+Coimbatore,Z111,Palghat road,primary,60,10.9698955,76.9561217,641008
+Coimbatore,Z111,Palghat road,primary,40,10.9364917,76.95110515,641105
+Coimbatore,Z127,Mettupalayam to Bathirakaliamman Koil,tertiary,50,11.2981155,76.8972543,641305
+Coimbatore,Z127,Mettupalayam to Bathirakaliamman Koil,tertiary,50,11.3027719,76.93513345,641301
+Coimbatore,Z136,Vellienkadu to Karamadai Road,secondary,50,11.2134544,76.8255001,641113
+Coimbatore,Z153,Mettupalayam-Coimbatore Road,trunk,50,11.242406,76.9588842,641104
+Coimbatore,Z153,Mettupalayam-Coimbatore Road,trunk,50,11.3024098,76.9383284,641301
+Coimbatore,Z172,Udhagamandalam - Kotagiri - Mettupalayam - Sathyamangalam - Gobichettipalayam - Erode Road,primary,50,11.31823415,77.0066797,641301
+Coimbatore,Z143,Ooty-Coonoor Road,trunk,50,11.3073754,76.93345435,641301
+Coimbatore,Z143,Ooty-Coonoor Road,trunk,50,11.3027892,76.9381592,641301
+Coimbatore,Z108,Thudiyalur - Saravanampatty Road,secondary,45,11.08049235,76.94223485,641001
+Coimbatore,Z153,Mettupalayam-Coimbatore Road,trunk,50,11.13987955,76.9420846,641047
+Coimbatore,Z153,Mettupalayam-Coimbatore Road,trunk,50,11.14836365,76.9440589,641047
+Coimbatore,Z153,Mettupalayam-Coimbatore Road,trunk,50,11.2071409,76.96683735,641019
+Coimbatore,Z153,Mettupalayam-Coimbatore Road,trunk,50,11.17176205,76.9526977,641047
+Coimbatore,Z153,Mettupalayam-Coimbatore Road,trunk,50,11.1716957,76.9526714,641047
+Coimbatore,Z153,Mettupalayam-Coimbatore Road,trunk,50,11.1874017,76.9607864,641047
+Coimbatore,Z153,Mettupalayam-Coimbatore Road,trunk,50,11.18669095,76.9605941,641047
+Coimbatore,Z153,Mettupalayam-Coimbatore Road,trunk,40,11.2237802,76.9604541,641019
+Coimbatore,Z153,Mettupalayam-Coimbatore Road,trunk,50,11.21927465,76.96305155,641019
+Coimbatore,Z153,Mettupalayam-Coimbatore Road,trunk,40,11.2361607,76.96012905,641104
+Coimbatore,Z153,Mettupalayam-Coimbatore Road,trunk,40,11.22391915,76.9604237,641019
+Coimbatore,Z107,Coimbatore-Mettupalayam Road,trunk,50,11.10915365,76.936858,641020
+Coimbatore,Z107,Coimbatore-Mettupalayam Road,trunk,50,11.10877065,76.93696875,641020
+Coimbatore,Z107,Coimbatore-Mettupalayam Road,trunk,50,11.09291935,76.93844845,641001
+Coimbatore,Z107,Coimbatore-Mettupalayam Road,trunk,50,11.09364355,76.93841655,641017
+Coimbatore,Z153,Mettupalayam-Coimbatore Road,trunk,50,11.17607975,76.9547521,641047
+Coimbatore,Z153,Mettupalayam-Coimbatore Road,trunk,50,11.17592755,76.9546709,641047
+Coimbatore,Z153,Mettupalayam-Coimbatore Road,trunk,50,11.19187425,76.96081565,641019
+Coimbatore,Z153,Mettupalayam-Coimbatore Road,trunk,50,11.19157285,76.96085805,641019
+Coimbatore,Z107,Coimbatore-Mettupalayam Road,trunk,50,11.07763205,76.9416474,641034
+Coimbatore,Z107,Coimbatore-Mettupalayam Road,trunk,50,11.0766758,76.94174005,641001
+Coimbatore,Z107,Coimbatore-Mettupalayam Road,trunk,50,11.07870885,76.9415467,641001
+Coimbatore,Z107,Coimbatore-Mettupalayam Road,trunk,50,11.08187075,76.9410648,641001
+Coimbatore,Z107,Coimbatore-Mettupalayam Road,trunk,50,11.07951415,76.9414986,641001
+Coimbatore,Z106,Pollachi - Coimbatore Salai,trunk,80,10.78391885,77.015034,642109
+Coimbatore,Z106,Pollachi - Coimbatore Salai,trunk,80,10.767162,77.0178482,642109
+Coimbatore,-,Unnamed Zone,residential,35,11.0841764,76.9456287,641001
+Coimbatore,-,Unnamed Zone,residential,35,11.0841837,76.9454353,641001
+Coimbatore,-,Unnamed Zone,residential,35,11.08417845,76.9440168,641001
+Coimbatore,Z107,Coimbatore-Mettupalayam Road,trunk,50,11.06130555,76.9442547,641001
+Coimbatore,Z107,Coimbatore-Mettupalayam Road,trunk,50,11.04671365,76.9470252,641001
+Coimbatore,Z123,Makaliamman koil to Kembanur Road,residential,30,11.24243775,76.89991735,641104
+Coimbatore,Z123,Makaliamman koil to Kembanur Road,residential,30,11.2422408,76.90382925,641104
+Coimbatore,Z123,Makaliamman koil to Kembanur Road,residential,30,11.2422609,76.9040397,641104
+Coimbatore,Z111,Palghat road,primary,60,10.8999985,76.93931555,641105
+Coimbatore,Z173,Kembanur - Madappanur Road,path,30,11.2436425,76.89992615,641104
+Coimbatore,Z123,Makaliamman koil to Kembanur Road,residential,30,11.23642805,76.9090047,641104
+Coimbatore,-,Unnamed Zone,trunk,100,11.15139555,77.2099668,641654
+Coimbatore,-,Unnamed Zone,trunk,100,11.1326258,77.1996708,641668
+Coimbatore,-,Unnamed Zone,trunk,100,11.13401455,77.20055075,641659
+Coimbatore,-,Unnamed Zone,trunk,100,11.13476905,77.20090665,641654
+Coimbatore,-,Unnamed Zone,trunk,100,11.13410105,77.2004455,641659
+Coimbatore,-,Unnamed Zone,trunk,100,11.0975235,77.156411,641668
+Coimbatore,-,Unnamed Zone,trunk,100,11.09735085,77.15601775,641407
+Coimbatore,-,Unnamed Zone,trunk,100,11.0972186,77.15606705,641407
+Coimbatore,-,Unnamed Zone,trunk,100,11.0970784,77.15565295,641407
+Coimbatore,-,Unnamed Zone,trunk,100,11.09349055,77.14725475,641407
+Coimbatore,-,Unnamed Zone,trunk,100,11.1078886,77.1773208,641668
+Coimbatore,-,Unnamed Zone,trunk,100,11.10766035,77.177001,641668
+Coimbatore,-,Unnamed Zone,trunk,100,11.10731435,77.1767069,641668
+Coimbatore,-,Unnamed Zone,trunk,100,11.1075578,77.17706075,641668
+Coimbatore,Z100,Kamarajar Road,secondary,40,11.0054989,77.02663315,641015
+Coimbatore,Z174,Palakkad - Koduvayur - Meenakshipuram Road,primary,80,10.64982485,76.7946339,678533
+Coimbatore,-,Unnamed Zone,trunk,50,10.98779155,76.96133685,641001
+Coimbatore,Z175,Nagaiyan Thottam Road,residential,40,11.01357425,77.0921614,641402
+Coimbatore,-,Unnamed Zone,residential,20,11.09541335,77.02855845,641048
+Coimbatore,-,Unnamed Zone,residential,20,11.09372825,77.0280816,641048
+Coimbatore,-,Unnamed Zone,residential,20,11.0941153,77.028182,641048
+Coimbatore,-,Unnamed Zone,residential,20,11.09480205,77.0280696,641048
+Coimbatore,Z176,Narasipuram - Thenamanallur Rd,unclassified,50,10.98509125,76.7918866,641109
+Coimbatore,Z110,Pollachi - Palakkad Road,primary,60,10.65979085,77.0071923,642001
+Coimbatore,Z174,Palakkad - Koduvayur - Meenakshipuram Road,primary,80,10.6331659,76.8641898,678533
+Coimbatore,Z154,Gopalasamy Koil Street,secondary,45,11.03618765,76.9759107,641001
+Coimbatore,-,Unnamed Zone,residential,20,11.0380669,76.91448075,641041
+Coimbatore,-,Unnamed Zone,residential,20,11.03764685,76.9155787,641041
+Coimbatore,-,Unnamed Zone,residential,20,11.0378466,76.914701,641041
+Coimbatore,-,Unnamed Zone,residential,35,11.0857773,76.9451808,641001
+Coimbatore,-,Unnamed Zone,residential,35,11.08591225,76.94492585,641001
+Coimbatore,-,Unnamed Zone,residential,35,11.08613075,76.94601705,641001
+Coimbatore,-,Unnamed Zone,residential,35,11.0976566,76.94938455,641001
+Coimbatore,-,Unnamed Zone,residential,35,11.0978158,76.94848095,641001
+Coimbatore,-,Unnamed Zone,residential,35,11.09663055,76.94798025,641001
+Coimbatore,-,Unnamed Zone,residential,35,11.09626435,76.94795535,641001
+Coimbatore,Z148,Coimbatore - Tiruchirapalli Nedunchalai,trunk,70,11.0275419,77.1477853,641401
+Coimbatore,Z148,Coimbatore - Tiruchirapalli Nedunchalai,trunk,70,11.0281122,77.1309408,641402
+Coimbatore,Z148,Coimbatore - Tiruchirapalli Nedunchalai,trunk,70,11.01001315,77.0801246,641103
+Coimbatore,Z148,Coimbatore - Tiruchirapalli Nedunchalai,trunk,70,11.01059575,77.0813179,641103
+Coimbatore,-,Unnamed Zone,tertiary_link,40,10.9761703,76.8002684,641109
+Coimbatore,-,Unnamed Zone,unclassified,40,10.97730785,76.7908312,641109
+Coimbatore,Z114,Pollachi-Udumalpet Road,trunk,80,10.6140875,77.16464615,642117
+Coimbatore,Z177,NH 83 u/c,construction,80,10.70562635,77.01607355,642003
+Coimbatore,Z114,Pollachi-Udumalpet Road,trunk,80,10.6257541,77.1224797,642117
+Coimbatore,Z114,Pollachi-Udumalpet Road,trunk,80,10.62587445,77.1221788,642117
+Coimbatore,Z114,Pollachi-Udumalpet Road,trunk,80,10.63190695,77.1068052,642117
+Coimbatore,Z114,Pollachi-Udumalpet Road,trunk,80,10.63195685,77.1065558,642117
+Coimbatore,Z100,Kamarajar Road,secondary,40,11.004241,77.02744585,641015
+Coimbatore,Z100,Kamarajar Road,secondary,40,11.00479385,77.0270799,641015
+Coimbatore,Z100,Kamarajar Road,secondary,40,11.0049889,77.02695985,641015
+Coimbatore,Z120,Avinashi - Tiruppur - Palladam - Pollachi - Meenkarai - Kochi Road,primary,90,10.65537845,77.0037584,642001
+Coimbatore,Z121,Udhagamandalam - Kotagiri - Mettupalayam - Sathy - Gobi - Erode Road,primary,50,11.3266528,77.01228945,641302
+Coimbatore,Z118,Thadagam Road,primary,40,11.0196347,76.93852105,641001
+Coimbatore,Z144,Salem - Kochi - Kanyakumari Highway,trunk,40,10.8776733,76.90669935,641112
+Coimbatore,Z144,Salem - Kochi - Kanyakumari Highway,trunk,70,10.87909635,76.90742615,641112
+Coimbatore,Z144,Salem - Kochi - Kanyakumari Highway,trunk,40,10.88938485,76.9198718,641112
+Coimbatore,Z178,Kollengode-Pollachi Road,primary,60,10.61487715,76.81623575,678507
+Coimbatore,Z126,Velliankadu Road to Bathirakaliamman Koil,tertiary,50,11.24443875,76.8925673,641104
+Coimbatore,Z126,Velliankadu Road to Bathirakaliamman Koil,tertiary,50,11.2461054,76.89390405,641113
+Coimbatore,Z128,Bujanganur to Thekkampatti Road,tertiary,40,11.2493839,76.8876892,641104
+Coimbatore,Z128,Bujanganur to Thekkampatti Road,tertiary,40,11.2497454,76.88761195,641113
+Coimbatore,Z153,Mettupalayam-Coimbatore Road,trunk,50,11.2429964,76.9584788,641104
+Coimbatore,Z114,Pollachi-Udumalpet Road,trunk,40,10.64440305,77.08210845,642003
+Coimbatore,Z114,Pollachi-Udumalpet Road,trunk,40,10.64508845,77.081314,642003
+Coimbatore,Z114,Pollachi-Udumalpet Road,trunk,40,10.6447817,77.08157915,642003
+Coimbatore,Z114,Pollachi-Udumalpet Road,trunk,40,10.65701725,77.0418574,642001
+Coimbatore,Z114,Pollachi-Udumalpet Road,trunk,40,10.65218695,77.07225975,642001
+Coimbatore,Z114,Pollachi-Udumalpet Road,trunk,40,10.65223345,77.0724858,642003
+Coimbatore,Z114,Pollachi-Udumalpet Road,trunk,40,10.65231505,77.0723208,642001
+Coimbatore,Z114,Pollachi-Udumalpet Road,trunk,60,10.6558818,77.016449,642001
+Coimbatore,Z114,Pollachi-Udumalpet Road,trunk,40,10.65246355,77.0717011,642001
+Coimbatore,Z109,Pollachi Salai,trunk,40,10.9404075,76.9797771,641021
+Coimbatore,Z106,Pollachi - Coimbatore Salai,trunk,40,10.69598445,77.01214205,642001
+Coimbatore,Z106,Pollachi - Coimbatore Salai,trunk,40,10.6997005,77.013611,642002
+Coimbatore,Z106,Pollachi - Coimbatore Salai,trunk,40,10.7020669,77.01473125,642002
+Coimbatore,Z106,Pollachi - Coimbatore Salai,trunk,40,10.69852235,77.0132558,642002
+Coimbatore,Z106,Pollachi - Coimbatore Salai,trunk,40,10.6991951,77.01351715,642002
+Coimbatore,Z106,Pollachi - Coimbatore Salai,trunk,40,10.69670445,77.01233545,642002
+Coimbatore,Z106,Pollachi - Coimbatore Salai,trunk,40,10.69926955,77.01343475,642002
+Coimbatore,Z106,Pollachi - Coimbatore Salai,trunk,40,10.7029565,77.01508925,642002
+Coimbatore,Z106,Pollachi - Coimbatore Salai,trunk,80,10.71618595,77.0169734,642002
+Coimbatore,Z106,Pollachi - Coimbatore Salai,trunk,80,10.72579315,77.01789325,642110
+Coimbatore,Z106,Pollachi - Coimbatore Salai,trunk,80,10.7172566,77.01706875,642002
+Coimbatore,Z106,Pollachi - Coimbatore Salai,trunk,80,10.70553325,77.0156931,642002
+Coimbatore,Z106,Pollachi - Coimbatore Salai,trunk,80,10.71728495,77.01690915,642002
+Coimbatore,Z106,Pollachi - Coimbatore Salai,trunk,80,10.7261596,77.01778685,642110
+Coimbatore,Z106,Pollachi - Coimbatore Salai,trunk,80,10.7260884,77.01777035,642110
+Coimbatore,Z106,Pollachi - Coimbatore Salai,trunk,80,10.73364875,77.01894685,642110
+Coimbatore,Z106,Pollachi - Coimbatore Salai,trunk,80,10.72608475,77.01795505,642120
+Coimbatore,Z106,Pollachi - Coimbatore Salai,trunk,80,10.74414085,77.01961035,642110
+Coimbatore,Z106,Pollachi - Coimbatore Salai,trunk,80,10.73396455,77.01897295,642110
+Coimbatore,Z106,Pollachi - Coimbatore Salai,trunk,80,10.75754095,77.01965295,642110
+Coimbatore,Z106,Pollachi - Coimbatore Salai,trunk,80,10.74468355,77.01965865,642110
+Coimbatore,Z106,Pollachi - Coimbatore Salai,trunk,80,10.73452135,77.01889145,642110
+Coimbatore,Z106,Pollachi - Coimbatore Salai,trunk,80,10.7444176,77.01953685,642110
+Coimbatore,Z106,Pollachi - Coimbatore Salai,trunk,80,10.76644445,77.01814935,642109
+Coimbatore,Z106,Pollachi - Coimbatore Salai,trunk,80,10.7837785,77.0152149,642109
+Coimbatore,Z106,Pollachi - Coimbatore Salai,trunk,40,10.70531145,77.01580475,642002
+Coimbatore,Z106,Pollachi - Coimbatore Salai,trunk,40,10.70391395,77.01521075,642002
+Coimbatore,Z114,Pollachi-Udumalpet Road,trunk,60,10.65590215,77.0137257,642001
+Coimbatore,Z106,Pollachi - Coimbatore Salai,trunk,80,10.88044105,77.002379,641032
+Coimbatore,Z106,Pollachi - Coimbatore Salai,trunk,80,10.78399925,77.0151774,642109
+Coimbatore,Z106,Pollachi - Coimbatore Salai,trunk,80,10.7845833,77.0148809,642109
+Coimbatore,Z106,Pollachi - Coimbatore Salai,trunk,80,10.811551,77.017371,642109
+Coimbatore,Z106,Pollachi - Coimbatore Salai,trunk,80,10.8120946,77.01747295,642109
+Coimbatore,Z106,Pollachi - Coimbatore Salai,trunk,80,10.81702255,77.0180769,642109
+Coimbatore,Z106,Pollachi - Coimbatore Salai,trunk,80,10.8174514,77.01810025,642109
+Coimbatore,Z106,Pollachi - Coimbatore Salai,trunk,80,10.82963665,77.0177811,642109
+Coimbatore,Z106,Pollachi - Coimbatore Salai,trunk,80,10.8306502,77.0175409,642109
+Coimbatore,Z106,Pollachi - Coimbatore Salai,trunk,80,10.83287825,77.0172733,642109
+Coimbatore,Z106,Pollachi - Coimbatore Salai,trunk,80,10.83373595,77.01702385,642109
+Coimbatore,Z106,Pollachi - Coimbatore Salai,trunk,80,10.847882,77.0146846,642109
+Coimbatore,Z106,Pollachi - Coimbatore Salai,trunk,80,10.84907375,77.0143249,641032
+Coimbatore,Z106,Pollachi - Coimbatore Salai,trunk,80,10.84961485,77.01444505,641032
+Coimbatore,Z106,Pollachi - Coimbatore Salai,trunk,80,10.8908241,77.0003937,641050
+Coimbatore,Z106,Pollachi - Coimbatore Salai,trunk,80,10.9040344,76.998348,641050
+Coimbatore,Z106,Pollachi - Coimbatore Salai,trunk,80,10.883627,77.00132105,641032
+Coimbatore,Z106,Pollachi - Coimbatore Salai,trunk,80,10.8848585,77.00117725,641032
+Coimbatore,Z106,Pollachi - Coimbatore Salai,trunk,80,10.88870955,77.00060695,641032
+Coimbatore,Z106,Pollachi - Coimbatore Salai,trunk,80,10.88997345,77.0005886,641032
+Coimbatore,Z106,Pollachi - Coimbatore Salai,trunk,80,10.88786345,77.0007918,641032
+Coimbatore,Z106,Pollachi - Coimbatore Salai,trunk,80,10.88633395,77.00078885,641032
+Coimbatore,Z106,Pollachi - Coimbatore Salai,trunk,80,10.90407615,76.9982046,641050
+Coimbatore,Z109,Pollachi Salai,trunk,40,10.9178901,76.98594415,641050
+Coimbatore,Z109,Pollachi Salai,trunk,40,10.9180689,76.9858918,641050
+Coimbatore,Z106,Pollachi - Coimbatore Salai,trunk,40,10.9176112,76.9863018,641050
+Coimbatore,Z106,Pollachi - Coimbatore Salai,trunk,40,10.91788295,76.986127,641050
+Coimbatore,Z109,Pollachi Salai,trunk,40,10.92129035,76.9832432,641050
+Coimbatore,Z109,Pollachi Salai,trunk,40,10.9253535,76.9823622,641021
+Coimbatore,Z109,Pollachi Salai,trunk,40,10.9220918,76.98296355,641050
+Coimbatore,Z109,Pollachi Salai,trunk,40,10.921627,76.983109,641050
+Coimbatore,Z109,Pollachi Salai,trunk,40,10.9260595,76.9819978,641021
+Coimbatore,Z109,Pollachi Salai,trunk,40,10.92736385,76.9816449,641021
+Coimbatore,Z124,Eachanari Railway Flyover,trunk,40,10.9357703,76.98051515,641021
+Coimbatore,Z124,Eachanari Railway Flyover,trunk,40,10.9398818,76.97984765,641021
+Coimbatore,Z153,Mettupalayam-Coimbatore Road,trunk,50,11.24054825,76.960155,641104
+Coimbatore,Z143,Ooty-Coonoor Road,trunk,50,11.30299475,76.93780765,641301
+Coimbatore,Z128,Bujanganur to Thekkampatti Road,tertiary,40,11.22373315,76.8901315,641113
+Coimbatore,Z127,Mettupalayam to Bathirakaliamman Koil,tertiary,50,11.30358545,76.93678965,641301
+Coimbatore,Z126,Velliankadu Road to Bathirakaliamman Koil,tertiary,50,11.25172315,76.89475815,641113
+Coimbatore,Z167,Sathi Road,trunk,40,11.02071055,76.9710548,641001
+Coimbatore,Z136,Vellienkadu to Karamadai Road,secondary,50,11.21317125,76.82322535,641104
+Coimbatore,Z128,Bujanganur to Thekkampatti Road,tertiary,40,11.24067065,76.88644785,641113
+Coimbatore,Z121,Udhagamandalam - Kotagiri - Mettupalayam - Sathy - Gobi - Erode Road,primary,50,11.32745715,77.0140811,641302
+Coimbatore,Z153,Mettupalayam-Coimbatore Road,trunk,50,11.15312295,76.94435075,641047
+Coimbatore,Z153,Mettupalayam-Coimbatore Road,trunk,50,11.16443845,76.94878735,641047
+Coimbatore,Z107,Coimbatore-Mettupalayam Road,trunk,50,11.0587424,76.9449984,641001
+Coimbatore,Z107,Coimbatore-Mettupalayam Road,trunk,50,11.05579835,76.94555265,641001
+Coimbatore,Z153,Mettupalayam-Coimbatore Road,trunk,50,11.16139775,76.94660335,641047
+Coimbatore,Z148,Coimbatore - Tiruchirapalli Nedunchalai,trunk,70,11.01428835,77.1890773,641401
+Coimbatore,Z179,SVF Road,service,30,10.6591495,77.12269655,642117
+Coimbatore,Z179,SVF Road,service,30,10.6655634,77.12925445,642117
+Coimbatore,Z179,SVF Road,service,30,10.66549945,77.12910435,642117
+Coimbatore,-,Unnamed Zone,tertiary,30,11.167829,76.94573015,641047
+Coimbatore,Z115,Coimbatore Bypass,trunk,70,10.91793755,76.9861155,641050
+Coimbatore,Z106,Pollachi - Coimbatore Salai,trunk,40,10.91780015,76.98623175,641050
+Coimbatore,Z115,Coimbatore Bypass,trunk,70,10.91781585,76.98612595,641050
+Coimbatore,Z106,Pollachi - Coimbatore Salai,trunk,40,10.9178061,76.98605185,641050
+Coimbatore,Z115,Coimbatore Bypass,trunk,70,10.91774385,76.9860568,641050
+Coimbatore,Z115,Coimbatore Bypass,trunk,70,10.9178732,76.9860529,641050
+Coimbatore,Z115,Coimbatore Bypass,trunk,70,10.91806975,76.9862464,641050
+Coimbatore,Z115,Coimbatore Bypass,trunk,70,10.9179299,76.98623545,641050
+Coimbatore,Z109,Pollachi Salai,trunk,40,10.9179659,76.98602205,641050
+Coimbatore,Z115,Coimbatore Bypass,trunk,70,10.91760515,76.9859224,641050
+Coimbatore,Z106,Pollachi - Coimbatore Salai,trunk,40,10.91773465,76.98614345,641050
+Coimbatore,Z109,Pollachi Salai,trunk,40,10.91799765,76.9858063,641050
+Coimbatore,Z115,Coimbatore Bypass,trunk,70,10.91774485,76.98592685,641050
+Coimbatore,Z115,Coimbatore Bypass,trunk,70,10.9231803,76.99124045,641050
+Coimbatore,Z115,Coimbatore Bypass,trunk,70,10.9232534,76.991312,641050
+Coimbatore,Z155,Avanishi Road,primary,50,11.02484115,77.0096668,641004
+Coimbatore,Z155,Avanishi Road,primary,50,11.02575145,77.0176442,641001
+Coimbatore,Z119,Avinashi Road,primary,50,11.02594395,77.01808615,641001
+Coimbatore,Z119,Avinashi Road,primary,50,11.0258626,77.0176075,641001
+Coimbatore,Z114,Pollachi-Udumalpet Road,trunk,40,10.65938675,77.0502413,642001
+Coimbatore,Z153,Mettupalayam-Coimbatore Road,trunk,50,11.1608207,76.94621335,641047
+Coimbatore,Z153,Mettupalayam-Coimbatore Road,trunk,50,11.15739115,76.9445862,641047
+Coimbatore,Z153,Mettupalayam-Coimbatore Road,trunk,50,11.1611442,76.9466143,641047
+Coimbatore,Z180,Annur Bus Stand Entry Road,service,20,11.2340254,77.1031202,641653
+Coimbatore,Z175,Nagaiyan Thottam Road,track,40,11.01681235,77.0910654,641402
+Coimbatore,Z104,Annur - Karumathampatti Road,primary,60,11.10764445,77.17709815,641659
+Coimbatore,Z104,Annur - Karumathampatti Road,primary,60,11.14690285,77.1592921,641659
+Coimbatore,Z160,Karanampettai - Karumathampatti Road,primary,60,11.07838575,77.19119015,641668
+Coimbatore,-,Unnamed Zone,trunk,100,11.07968185,77.11822475,641407
+Coimbatore,-,Unnamed Zone,trunk,100,11.0826649,77.12287655,641407
+Coimbatore,-,Unnamed Zone,trunk,100,11.0749783,77.11055695,641407
+Coimbatore,-,Unnamed Zone,trunk,100,11.0827708,77.12280235,641407
+Coimbatore,-,Unnamed Zone,trunk,100,11.08765305,77.13034755,641407
+Coimbatore,-,Unnamed Zone,trunk,100,11.08794755,77.1308412,641407
+Coimbatore,-,Unnamed Zone,trunk,100,11.0828181,77.122874,641407
+Coimbatore,-,Unnamed Zone,trunk,100,11.0880692,77.130759,641407
+Coimbatore,-,Unnamed Zone,trunk,100,11.0899691,77.1356522,641407
+Coimbatore,-,Unnamed Zone,trunk,100,11.0903602,77.13687615,641407
+Coimbatore,-,Unnamed Zone,trunk,100,11.0883462,77.131308,641407
+Coimbatore,-,Unnamed Zone,trunk,100,11.0904825,77.13683235,641407
+Coimbatore,-,Unnamed Zone,trunk,100,11.0928644,77.1449096,641407
+Coimbatore,-,Unnamed Zone,trunk,100,11.09312925,77.14587235,641407
+Coimbatore,-,Unnamed Zone,trunk,100,11.09300435,77.14488205,641407
+Coimbatore,-,Unnamed Zone,trunk,100,11.09326245,77.1458311,641407
+Coimbatore,-,Unnamed Zone,trunk,100,11.1013589,77.16540985,641668
+Coimbatore,-,Unnamed Zone,trunk,100,11.10077575,77.1638293,641668
+Coimbatore,-,Unnamed Zone,trunk,100,11.10236605,77.16789835,641668
+Coimbatore,-,Unnamed Zone,trunk,100,11.10065505,77.16387925,641668
+Coimbatore,Z145,Pattanam Road,tertiary,40,10.99425405,77.0582581,641016
+Coimbatore,Z145,Pattanam Road,tertiary,40,10.99467415,77.057947,641016
+Coimbatore,Z148,Coimbatore - Tiruchirapalli Nedunchalai,trunk,70,11.0122559,77.08503595,641103
+Coimbatore,Z148,Coimbatore - Tiruchirapalli Nedunchalai,trunk,70,11.01211485,77.0847302,641103
+Coimbatore,Z148,Coimbatore - Tiruchirapalli Nedunchalai,trunk,70,11.0123594,77.0849823,641103
+Coimbatore,Z145,Pattanam Road,unclassified,40,10.9928428,77.0586302,641016
+Coimbatore,Z145,Pattanam Road,unclassified,40,10.9907403,77.05906225,641016
+Coimbatore,Z105,Kaundampalayam - Vadavalli - Onappalayam Road,secondary,40,11.0267629,76.9059427,641041
+Coimbatore,Z181,Dr.N.G.P college entrance road,unclassified,20,11.06067545,77.0335006,641001
+Coimbatore,Z182,Shalom Nagar,residential,20,10.97126395,77.0045258,641038
+Coimbatore,Z115,Coimbatore Bypass,trunk,70,10.9171555,76.98542775,641050
+Coimbatore,Z119,Avinashi Road,primary,50,11.0293296,77.02628425,641001
+Coimbatore,Z119,Avinashi Road,primary,50,11.03805375,77.03747225,641001
+Coimbatore,Z153,Mettupalayam-Coimbatore Road,trunk,50,11.15265515,76.94436615,641047
+Coimbatore,Z153,Mettupalayam-Coimbatore Road,trunk,50,11.1493379,76.944157,641047
+Coimbatore,Z153,Mettupalayam-Coimbatore Road,trunk,50,11.20603905,76.96662655,641019
+Coimbatore,Z148,Coimbatore - Tiruchirapalli Nedunchalai,trunk,70,11.00775035,77.0722186,641103
+Coimbatore,Z148,Coimbatore - Tiruchirapalli Nedunchalai,trunk,70,11.02753655,77.14820445,641401
+Coimbatore,Z148,Coimbatore - Tiruchirapalli Nedunchalai,trunk,70,11.0256831,77.1622734,641401
+Coimbatore,Z148,Coimbatore - Tiruchirapalli Nedunchalai,trunk,70,11.0257512,77.1614915,641401
+Coimbatore,Z148,Coimbatore - Tiruchirapalli Nedunchalai,trunk,70,11.0255326,77.16231855,641401
+Coimbatore,Z148,Coimbatore - Tiruchirapalli Nedunchalai,trunk,70,11.0254877,77.16305125,641401
+Coimbatore,Z148,Coimbatore - Tiruchirapalli Nedunchalai,trunk,70,11.02351795,77.17450645,641401
+Coimbatore,Z148,Coimbatore - Tiruchirapalli Nedunchalai,trunk,70,11.0236599,77.1740504,641401
+Coimbatore,Z148,Coimbatore - Tiruchirapalli Nedunchalai,trunk,70,11.0233786,77.17451625,641401
+Coimbatore,Z119,Avinashi Road,primary,50,11.02676525,77.02162965,641001
+Coimbatore,Z119,Avinashi Road,primary,50,11.02864075,77.02549625,641001
+Coimbatore,-,Unnamed Zone,residential,35,11.0850028,76.9470521,641001
+Coimbatore,-,Unnamed Zone,residential,35,11.0889699,76.9420025,641001
+Coimbatore,-,Unnamed Zone,tertiary,40,11.08998045,76.9452789,641001
+Coimbatore,Z153,Mettupalayam-Coimbatore Road,trunk,50,11.17329325,76.95335185,641047
+Coimbatore,Z183,Akshay Home Street,residential,10,11.08713875,77.0681814,641048
+Coimbatore,Z155,Avanishi Road,primary,50,11.0257162,77.01746185,641001
+Coimbatore,-,Unnamed Zone,residential,35,11.0808362,76.9559603,641001
+Coimbatore,Z155,Avanishi Road,primary,50,11.023183,77.00169435,641028
+Coimbatore,Z184,Tiruchi Road,trunk,40,10.99712055,76.9960869,641001
+Coimbatore,Z184,Tiruchi Road,trunk,40,10.9971317,76.99580345,641001
+Coimbatore,Z184,Tiruchi Road,trunk,40,10.9971341,76.9977484,641001
+Coimbatore,Z184,Tiruchi Road,trunk,40,10.9971333,76.9976983,641001
+Coimbatore,Z184,Tiruchi Road,trunk,40,10.9971326,76.99763665,641001
+Coimbatore,Z184,Tiruchi Road,trunk,40,10.99714025,76.9983071,641045
+Coimbatore,Z184,Tiruchi Road,trunk,40,10.99711645,77.0022876,661005
+Coimbatore,Z184,Tiruchi Road,trunk,40,10.99712025,77.0022163,641001
+Coimbatore,Z119,Avinashi Road,primary,50,11.02149575,76.9946905,641028
+Coimbatore,Z119,Avinashi Road,primary,50,11.0623624,77.0902759,641062
+Coimbatore,Z119,Avinashi Road,primary,50,11.0570574,77.0682382,641062
+Coimbatore,Z119,Avinashi Road,primary,50,11.0576588,77.0710763,641062
+Coimbatore,Z119,Avinashi Road,primary,50,11.0577665,77.0711157,641062
+Coimbatore,Z119,Avinashi Road,primary,50,11.05776655,77.0710585,641062
+Coimbatore,Z144,Salem - Kochi - Kanyakumari Highway,trunk,70,10.8859597,76.9137042,641112
+Coimbatore,Z144,Salem - Kochi - Kanyakumari Highway,trunk,70,10.8912628,76.9220903,641112
+Coimbatore,Z144,Salem - Kochi - Kanyakumari Highway,trunk,40,10.8913056,76.9223601,641112
+Coimbatore,Z144,Salem - Kochi - Kanyakumari Highway,trunk,40,10.89116625,76.9221765,641112
+Coimbatore,Z171,Coimbatore - Anaikatti Road,primary,40,11.05293645,76.91704945,641001
+Coimbatore,Z106,Pollachi - Coimbatore Salai,trunk,40,10.6599887,77.00814655,642001
+Coimbatore,Z106,Pollachi - Coimbatore Salai,trunk,40,10.66162915,77.00813025,642001
+Coimbatore,Z106,Pollachi - Coimbatore Salai,trunk,40,10.66172475,77.0079899,642001
+Coimbatore,Z106,Pollachi - Coimbatore Salai,trunk,40,10.6617346,77.0080862,642001
+Coimbatore,Z106,Pollachi - Coimbatore Salai,trunk,40,10.65941595,77.0081641,642001
+Coimbatore,Z106,Pollachi - Coimbatore Salai,trunk,40,10.65901375,77.00834555,642001
+Coimbatore,-,Unnamed Zone,trunk,60,10.6587237,77.0085281,642001
+Coimbatore,Z120,Avinashi - Tiruppur - Palladam - Pollachi - Meenkarai - Kochi Road,primary,90,10.65596525,77.0065628,642001
+Coimbatore,-,Unnamed Zone,trunk,60,10.6559878,77.01348765,642001
+Coimbatore,-,Unnamed Zone,trunk,60,10.6567829,77.0116353,642001
+Coimbatore,-,Unnamed Zone,trunk,60,10.6568423,77.0116189,642001
+Coimbatore,-,Unnamed Zone,trunk,60,10.6564724,77.01233485,642001
+Coimbatore,-,Unnamed Zone,trunk,60,10.6568795,77.01175405,642001
+Coimbatore,-,Unnamed Zone,trunk,60,10.6563662,77.012758,642001
+Coimbatore,-,Unnamed Zone,trunk,60,10.6558544,77.0170632,642001
+Coimbatore,Z107,Coimbatore-Mettupalayam Road,trunk,50,11.07381665,76.94202545,641001
+Coimbatore,Z107,Coimbatore-Mettupalayam Road,trunk,50,11.0737126,76.9420357,641001
+Coimbatore,Z169,Sitra - Kurumbapalayam Road,primary,70,11.0546442,77.0387177,641001
+Coimbatore,Z169,Sitra - Kurumbapalayam Road,primary,70,11.07415635,77.0381699,641048
+Coimbatore,Z119,Avinashi Road,primary,50,11.0576556,77.0704088,641062
+Coimbatore,Z119,Avinashi Road,primary,50,11.0571786,77.06840855,641062
+Coimbatore,Z119,Avinashi Road,primary,50,11.05734015,77.0684575,641062
+Coimbatore,Z119,Avinashi Road,primary,50,11.05723615,77.06831135,641062
+Coimbatore,Z148,Coimbatore - Tiruchirapalli Nedunchalai,trunk,70,11.02746035,77.14759225,641401
+Coimbatore,Z148,Coimbatore - Tiruchirapalli Nedunchalai,trunk,70,11.02753485,77.1402924,641401
+Coimbatore,Z148,Coimbatore - Tiruchirapalli Nedunchalai,trunk,70,11.02767725,77.14096905,641401
+Coimbatore,Z148,Coimbatore - Tiruchirapalli Nedunchalai,trunk,70,11.02764815,77.1402603,641401
+Coimbatore,Z148,Coimbatore - Tiruchirapalli Nedunchalai,trunk,70,11.02751325,77.1399837,641401
+Coimbatore,Z148,Coimbatore - Tiruchirapalli Nedunchalai,trunk,70,11.02811515,77.13103805,641401
+Coimbatore,Z148,Coimbatore - Tiruchirapalli Nedunchalai,trunk,70,11.0282112,77.1311012,641401
+Coimbatore,Z148,Coimbatore - Tiruchirapalli Nedunchalai,trunk,70,11.0282151,77.13100885,641401
+Coimbatore,Z119,Avinashi Road,primary,50,11.02502965,77.010111,641001
+Coimbatore,Z119,Avinashi Road,primary,50,11.0250138,77.0100311,641001
+Coimbatore,Z155,Avanishi Road,primary,50,11.0249293,77.0101353,641001
+Coimbatore,Z155,Avanishi Road,primary,50,11.0249125,77.0100483,641001
+Coimbatore,-,Unnamed Zone,residential,40,11.0328705,77.0091728,641001
+Coimbatore,-,Unnamed Zone,residential,40,11.0328712,77.0089814,641001
+Coimbatore,-,Unnamed Zone,trunk,100,11.0653207,77.0951824,641062
+Coimbatore,-,Unnamed Zone,trunk,100,11.06591965,77.09625885,641062
+Coimbatore,-,Unnamed Zone,trunk,100,11.06461835,77.0936424,641062
+Coimbatore,-,Unnamed Zone,trunk,100,11.06603015,77.0961751,641062
+Coimbatore,Z153,Mettupalayam-Coimbatore Road,trunk,50,11.3018808,76.9384142,641301
+Coimbatore,Z153,Mettupalayam-Coimbatore Road,trunk,50,11.28657505,76.9431172,641301
+Coimbatore,Z153,Mettupalayam-Coimbatore Road,trunk,50,11.2831201,76.9449043,641301
+Coimbatore,Z153,Mettupalayam-Coimbatore Road,trunk,50,11.2829961,76.94503955,641301
+Coimbatore,Z153,Mettupalayam-Coimbatore Road,trunk,50,11.2799833,76.94707305,641301
+Coimbatore,Z153,Mettupalayam-Coimbatore Road,trunk,50,11.267353,76.95106645,642110
+Coimbatore,Z153,Mettupalayam-Coimbatore Road,trunk,50,11.2765745,76.94867405,642110
+Coimbatore,Z153,Mettupalayam-Coimbatore Road,trunk,50,11.26712565,76.9511142,641104
+Coimbatore,Z153,Mettupalayam-Coimbatore Road,trunk,50,11.27647315,76.9486961,642110
+Coimbatore,Z153,Mettupalayam-Coimbatore Road,trunk,50,11.2609756,76.9524246,641104
+Coimbatore,Z153,Mettupalayam-Coimbatore Road,trunk,50,11.26089575,76.9525284,641104
+Coimbatore,Z153,Mettupalayam-Coimbatore Road,trunk,50,11.25570715,76.954204,641104
+Coimbatore,Z153,Mettupalayam-Coimbatore Road,trunk,50,11.25525215,76.9543649,641104
+Coimbatore,Z153,Mettupalayam-Coimbatore Road,trunk,50,11.2487483,76.95636065,641104
+Coimbatore,Z120,Avinashi - Tiruppur - Palladam - Pollachi - Meenkarai - Kochi Road,primary,60,10.6509414,76.98696275,642004
+Coimbatore,-,Unnamed Zone,trunk,40,10.8948159,76.9341334,641105
+Coimbatore,Z144,Salem - Kochi - Kanyakumari Highway,trunk,40,10.89099965,76.92197585,641112
+Coimbatore,Z144,Salem - Kochi - Kanyakumari Highway,trunk,70,10.8896517,76.91997065,641112
+Coimbatore,Z144,Salem - Kochi - Kanyakumari Highway,trunk,40,10.8923093,76.92365595,641112
+Coimbatore,Z144,Salem - Kochi - Kanyakumari Highway,trunk,70,10.89150205,76.9223889,641112
+Coimbatore,Z144,Salem - Kochi - Kanyakumari Highway,trunk,70,10.89470935,76.9316077,641105
+Coimbatore,Z144,Salem - Kochi - Kanyakumari Highway,trunk,40,10.89469425,76.9321153,641105
+Coimbatore,-,Unnamed Zone,trunk,40,10.895155,76.93797495,641105
+Coimbatore,-,Unnamed Zone,trunk,40,10.89507065,76.93873525,641105
+Coimbatore,Z144,Salem - Kochi - Kanyakumari Highway,trunk,70,10.85347285,76.85620865,678624
+Coimbatore,Z144,Salem - Kochi - Kanyakumari Highway,trunk,70,10.8574117,76.8639123,678624
+Coimbatore,Z144,Salem - Kochi - Kanyakumari Highway,trunk,40,10.85625995,76.86224455,678624
+Coimbatore,Z144,Salem - Kochi - Kanyakumari Highway,trunk,40,10.8572807,76.8639903,678624
+Coimbatore,Z144,Salem - Kochi - Kanyakumari Highway,trunk,70,10.85777215,76.8645283,678624
+Coimbatore,Z144,Salem - Kochi - Kanyakumari Highway,trunk,40,10.85794025,76.86505925,678624
+Coimbatore,Z144,Salem - Kochi - Kanyakumari Highway,trunk,70,10.8564679,76.86228155,678624
+Coimbatore,Z144,Salem - Kochi - Kanyakumari Highway,trunk,40,10.857215,76.8638702,678624
+Coimbatore,Z153,Mettupalayam-Coimbatore Road,trunk,50,11.21096355,76.9662102,641019
+Coimbatore,Z153,Mettupalayam-Coimbatore Road,trunk,50,11.2114424,76.96607355,641019
+Coimbatore,-,Unnamed Zone,trunk,100,11.0824392,77.12228545,641407
+Coimbatore,-,Unnamed Zone,trunk,100,11.0821048,77.12176395,641407
+Coimbatore,-,Unnamed Zone,trunk,100,11.08233245,77.122358,641407
+Coimbatore,-,Unnamed Zone,trunk,100,11.08199975,77.1218401,641407
+Coimbatore,Z144,Salem - Kochi - Kanyakumari Highway,trunk,40,10.85464255,76.84704965,678624
+Coimbatore,Z144,Salem - Kochi - Kanyakumari Highway,trunk,40,10.85482325,76.84823765,678624
+Coimbatore,Z144,Salem - Kochi - Kanyakumari Highway,trunk,70,10.85451705,76.84557775,678624
+Coimbatore,Z144,Salem - Kochi - Kanyakumari Highway,trunk,70,10.85493025,76.84821975,678624
+Coimbatore,Z144,Salem - Kochi - Kanyakumari Highway,trunk,40,10.85337765,76.85599685,678624
+Coimbatore,Z144,Salem - Kochi - Kanyakumari Highway,trunk,40,10.85385,76.8540885,678624
+Coimbatore,Z144,Salem - Kochi - Kanyakumari Highway,trunk,70,10.85468025,76.8520072,678624
+Coimbatore,Z144,Salem - Kochi - Kanyakumari Highway,trunk,70,10.8539775,76.8541292,678624
+Coimbatore,Z144,Salem - Kochi - Kanyakumari Highway,trunk,40,10.8550307,76.85018825,678624
+Coimbatore,Z144,Salem - Kochi - Kanyakumari Highway,trunk,70,10.8550177,76.8488035,678624
+Coimbatore,Z144,Salem - Kochi - Kanyakumari Highway,trunk,70,10.8538359,76.85454445,678624
+Coimbatore,Z144,Salem - Kochi - Kanyakumari Highway,trunk,40,10.8535052,76.8571717,678624
+Coimbatore,Z144,Salem - Kochi - Kanyakumari Highway,trunk,70,10.85512915,76.85035695,678624
+Coimbatore,Z144,Salem - Kochi - Kanyakumari Highway,trunk,40,10.85487615,76.85103985,678624
+Coimbatore,Z144,Salem - Kochi - Kanyakumari Highway,trunk,70,10.8529566,76.8430852,678624
+Coimbatore,Z144,Salem - Kochi - Kanyakumari Highway,trunk,40,10.8542567,76.8449986,678624
+Coimbatore,Z100,Kamarajar Road,secondary,40,11.0261962,77.02093055,641001
+Coimbatore,Z100,Kamarajar Road,secondary,40,11.02634735,77.0210151,641001
+Coimbatore,Z148,Coimbatore - Tiruchirapalli Nedunchalai,trunk,70,11.02778415,77.12769,641402
+Coimbatore,Z148,Coimbatore - Tiruchirapalli Nedunchalai,trunk,70,11.0274395,77.1486889,641401
+Coimbatore,Z148,Coimbatore - Tiruchirapalli Nedunchalai,trunk,70,11.0274566,77.1477896,641401
+Coimbatore,Z148,Coimbatore - Tiruchirapalli Nedunchalai,trunk,70,11.0103074,77.0805765,641103
+Coimbatore,Z148,Coimbatore - Tiruchirapalli Nedunchalai,trunk,70,11.01012755,77.08021645,641103
+Coimbatore,Z148,Coimbatore - Tiruchirapalli Nedunchalai,trunk,70,11.01011965,77.08032855,641103
+Coimbatore,Z148,Coimbatore - Tiruchirapalli Nedunchalai,trunk,70,11.0100723,77.0802379,641103
+Coimbatore,Z177,NH 83 u/c,construction,80,10.61423005,77.1658671,642117
+Coimbatore,Z177,NH 83 u/c,construction,80,10.61293665,77.17008375,642117
+Coimbatore,Z114,Pollachi-Udumalpet Road,trunk,80,10.61998135,77.1509411,642117
+Coimbatore,Z114,Pollachi-Udumalpet Road,trunk,80,10.6146664,77.1634486,642117
+Coimbatore,Z185,Alampalayam Road,residential,30,11.2110144,77.102173,641653
+Coimbatore,Z186,Coimbatore - Sathyamangalam Road,trunk,40,11.2331553,77.1026894,641653
+Coimbatore,Z186,Coimbatore - Sathyamangalam Road,trunk,40,11.23232775,77.10184635,641653
+Coimbatore,Z160,Karanampettai - Karumathampatti Road,primary,60,11.08796615,77.18593995,641668
+Coimbatore,-,Unnamed Zone,primary,30,11.03948105,77.03929505,641001
+Coimbatore,Z169,Sitra - Kurumbapalayam Road,primary,50,11.03814135,77.0374157,641001
+Coimbatore,Z169,Sitra - Kurumbapalayam Road,primary,50,11.03835875,77.0374205,641001
+Coimbatore,Z119,Avinashi Road,primary,50,11.03824385,77.03770415,641001
+Coimbatore,Z119,Avinashi Road,primary,50,11.0413239,77.0419074,641001
+Coimbatore,Z119,Avinashi Road,primary,50,11.0411521,77.0418071,641001
+Coimbatore,Z119,Avinashi Road,primary,50,11.0412441,77.0419387,641001
+Coimbatore,Z169,Sitra - Kurumbapalayam Road,primary,70,11.0745133,77.0380865,641048
+Coimbatore,Z169,Sitra - Kurumbapalayam Road,primary,70,11.0935922,77.0318925,641001
+Coimbatore,-,Unnamed Zone,trunk,100,11.08027045,77.11888435,641407
+Coimbatore,-,Unnamed Zone,trunk,100,11.07997595,77.1184223,641407
+Coimbatore,-,Unnamed Zone,trunk,100,11.081537,77.1211198,641407
+Coimbatore,-,Unnamed Zone,trunk,100,11.0798514,77.11848805,641407
+Coimbatore,Z145,Pattanam Road,unclassified,40,10.97570045,77.08617545,641016
+Coimbatore,Z145,Pattanam Road,unclassified,40,10.97553295,77.0861181,641016
+Coimbatore,Z106,Pollachi - Coimbatore Salai,trunk,80,10.88229475,77.00164725,641032
+Coimbatore,Z106,Pollachi - Coimbatore Salai,trunk,80,10.8827264,77.0015596,641032
+Coimbatore,Z106,Pollachi - Coimbatore Salai,trunk,80,10.8812316,77.0019312,641032
+Coimbatore,Z106,Pollachi - Coimbatore Salai,trunk,80,10.88269775,77.0015018,641032
+Coimbatore,Z124,Eachanari Railway Flyover,trunk,40,10.94009185,76.97981935,641021
+Coimbatore,Z151,Coimbatore Bypass Flyover,trunk,70,10.9466794,77.014003,641038
+Coimbatore,Z151,Coimbatore Bypass Flyover,trunk,70,10.94717145,77.01448425,641038
+Coimbatore,Z167,Sathi Road,construction,40,11.0172606,76.9689728,641001
+Coimbatore,Z121,Udhagamandalam - Kotagiri - Mettupalayam - Sathy - Gobi - Erode Road,primary,50,11.30903325,76.9832215,641301
+Coimbatore,Z133,Odhimalai Road,tertiary,40,11.31714225,77.10157045,641302
+Coimbatore,Z133,Odhimalai Road,tertiary,40,11.3056142,77.1028401,641302
